@@ -5,6 +5,7 @@
 /Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/repository/ProductRepository.java
 /Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/model/Client.java
 /Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/service/SaleService.java
+/Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/model/SaleDetail.java
 /Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/DemoApplication.java
 /Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/model/Sale.java
 /Users/alihassan/Desktop/Spring-Boot/src/main/java/com/example/demo/repository/SaleRepository.java
