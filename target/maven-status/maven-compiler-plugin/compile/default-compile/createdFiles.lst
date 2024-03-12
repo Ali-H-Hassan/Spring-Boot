@@ -1,3 +1,14 @@
-com/example/demo/repository/ClientRepository.class
 com/example/demo/model/Client.class
+com/example/demo/service/SaleService.class
+com/example/demo/model/SaleDetail.class
+com/example/demo/repository/SaleRepository.class
 com/example/demo/service/ClientService.class
+com/example/demo/service/ProductService.class
+com/example/demo/DemoApplication.class
+com/example/demo/model/Sale.class
+com/example/demo/repository/ProductRepository.class
+com/example/demo/controller/ProductController.class
+com/example/demo/repository/ClientRepository.class
+com/example/demo/controller/ClientController.class
+com/example/demo/controller/SaleController.class
+com/example/demo/model/Product.class
